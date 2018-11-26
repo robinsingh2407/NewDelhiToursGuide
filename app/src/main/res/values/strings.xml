@@ -1,0 +1,235 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="app_name">TourGuide</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--Sights -->
+
+    <string name="red_fort">Red Fort</string>
+    <string name="redfort_description">A brilliant architectural beauty is a historical fort in Delhi, Red Fort
+        which was the main residence of the emperors of the Mughal Dynasty for more than 200 years. The Mughal
+        families lived there until 1857</string>
+    <string name="redfort_address">Netaji Subhash Marg, Lal Qila, Chandni Chowk, New Delhi, Delhi 110006.</string>
+    <string name="redfort_time">9:30-18:00</string>
+    <string name="redfort_price">Rs.10-Rs.150</string>
+
+
+    <string name="india_gate">India Gate</string>
+    <string name="indiagate_description">India Gate is an important site to visit when on your tour to Delhi.
+        India Gate has its original name as All India War Memorial that was built in order to commemorate the
+        82000 soldiers of the Indian Army who lost their lives during the First World War happened from 1914 to
+        1921 as well as in the Third Anglo-Afghan War. The war memorial is situated at Rajpath where you can reach
+        by getting down at Barakhamba Road Metro station in Delhi</string>
+    <string name="indiagate_address">Rajpath Marg, India Gate, New Delhi, Delhi 110001.</string>
+    <string name="indiagate_time">Always Open</string>
+    <string name="indiagate_price">Free</string>
+
+    <string name="qutab_minar">Qutab Minar</string>
+    <string name="qutabminar_description">Qutub Minar is made of red sandstone and marble making its height up to 73 meters
+        and gives a tower like structure to it which is consisted of five stories and its diameter is 14.3 meters at the
+        base and it becomes 2.7 meters at the top.</string>
+    <string name="qutabminar_address">Qutub Minar Delhi is situated in Mehrauli in South West district of New Delhi, India.   </string>
+    <string name="qutabminar_time">9:30-18:00</string>
+    <string name="qutabminar_price">Rs.30-Rs.500</string>
+
+
+    <string name="lotus_temple">Lotus Temple</string>
+    <string name="lotustemple_description">The Lotus Temple is among the famous tourist places in Delhi and a major landmark
+        of India that has been attracting tourists from all over the world because of its architecture and beauty.
+        The construction of the temple was finished in 1986. It resembles the lotus flower but created in white colour.</string>
+    <string name="lotustemple_address">Lotus Temple Rd, Bahapur, Shambhu Dayal Bagh, Kalkaji, New Delhi, Delhi 110019.</string>
+    <string name="lotustemple_time">9:00-20:00</string>
+    <string name="lotustemple_price">Free</string>
+
+    <string name="akshardham">Akshardham</string>
+    <string name="akshardham_description">Among the temples in Delhi, Akshardham Temple or Swaminarayan Akshardham Complex
+        is amazingly famous as it is known to be a spiritual and cultural campus in Delhi. This complex showcases the
+        traditional Hindu and Indian culture, spirituality and architecture.</string>
+    <string name="akshardham_address">NH 24, Akshardham Setu, New Delhi, 110092.
+</string>
+    <string name="akshardham_time">9:30-18:00</string>
+    <string name="akshardham_price">Rs.10-Rs.300</string>
+
+    <string name="jantar_mantar">Jantar Mantar</string>
+    <string name="jantar_mantar_description">Among the five major Jantar Mantar constructed by Maharaja Jai Singh II
+        of Jaipur, the one in which Delhi has an equal reputation as of the Jaipur one. At Delhi Jantar Mantar,
+        there are 13 architectural astronomy instruments.</string>
+    <string name="jantar_mantar_address">Sansad Marg, Connaught Place, New Delhi, Delhi 110001.
+</string>
+    <string name="jantar_mantar_time">9:00-19:00</string>
+    <string name="jantar_mantar_price">Rs.50-Rs.100</string>
+
+
+    <string name="humayun_tomb">Humayun Tomb</string>
+    <string name="humayun_tomb_description">Maqbera e Humayun or the Humayun\’s Tomb in Delhi is a major historical site in
+        India. It is the tomb of the famous Mughal emperor of India Humayun. It was commissioned by the first wife of
+        Humayun who was the chief consort as well, Empress Bega Begum in 1569-70. </string>
+    <string name="humayun_tomb_address">Opposite Dargah Nizamuddin, Mathura Road, New Delhi, Delhi 110013.
+
+</string>
+    <string name="humayun_tomb_time">9:00-19:00</string>
+    <string name="humayun_tomb_price">Rs.250</string>
+
+
+    <!--Hotels -->
+    <string name="wood_castle">Wood Castle Grand</string>
+    <string name="wood_castle_description">This informal hotel in an area with businesses is a 2-minute walk from MCD Park,
+        4 km from shops and casual eateries at the 3-hectare Dilli Haat marketplace, and 12 km from the Indira Gandhi
+        International Airport.
+</string>
+    <string name="wood_castle_address">EA-190,NEAR COMMUNITY CENTRE, Block EA, Tagore Garden, Tagore Garden Extension,
+        New Delhi, Delhi 110027</string>
+    <string name="wood_castle_time">Always open</string>
+    <string name="wood_castle_price">Depends</string>
+
+    <string name="the_leela">The Leela Palace</string>
+    <string name="the_leela_description">
+        This palatial luxury hotel is 6.8 km from the Qutub complex and 7.9 km from Humayun\'s Tomb.</string>
+    <string name="the_leela_address">
+        Africa Ave, Diplomatic Enclave, Chanakyapuri, New Delhi, Delhi 110023
+    </string>
+    <string name="the_leela_time">Always Open</string>
+    <string name="the_leela_price">Depends</string>
+
+    <string name="the_oberoi">The Oberoi Hotel</string>
+    <string name="the_oberoi_description">
+        The modern rooms have flat-screen TVs, DVD players, minibars and paid Wi-Fi. Suites add living/dining rooms and/or kitchenettes. Room service is available.
+    </string>
+    <string name="the_oberoi_address">Dr Zakir Hussain Marg, Delhi Golf Club, Golf Links, New Delhi, Delhi 110003</string>
+    <string name="the_oberoi_time">Always Open</string>
+    <string name="the_oberoi_price">Depends</string>
+
+    <string name="shanti_home">Shanti Home</string>
+    <string name="shanti_home_description">Set 4.2 km from the Sulabh International Museum Of Toilets, this boutique hotel is
+        14 km from Buddha Jayanti Park. </string>
+    <string name="shanti_home_address">A-1/300, Block A1, Janakpuri, New Delhi, Delhi 110058</string>
+    <string name="shanti_home_time">Always open</string>
+    <string name="shanti_home_price">Depends</string>
+
+    <string name="the_taj_palace">Taj Palace Hotel</string>
+    <string name="the_taj_palace_description">Polished rooms and suites in a posh hotel offering 3 upscale restaurants, a spa and an outdoor pool.</string>
+    <string name="the_taj_palace_address">1, Man Singh Rd, South Block, Man Singh Road Area, New Delhi, Delhi 110001</string>
+    <string name="the_taj_palace_time">Always Open</string>
+    <string name="the_taj_palace_price">Depends</string>
+
+    <string name="the_taj_mahal">Taj Mahal Hotel</string>
+    <string name="the_taj_mahal_description">The luxurious, elegant rooms have flat-screen TVs, minibars and free Wi-Fi. Suites add living rooms
+        and dining rooms, as well as access to a lounge and a gym; some include balconies.
+        An upgraded suite features a kitchen and a library. Room service is available 24/7.</string>
+    <string name="the_taj_mahal_address">1, Man Singh Rd, South Block, Man Singh Road Area, New Delhi, Delhi 110001</string>
+    <string name="the_taj_mahal_time">Always Open</string>
+    <string name="the_taj_mahal_price">Depends</string>
+
+    <string name="the_imperial">The Imperial Hotel</string>
+    <string name="the_imperial_description">Built in 1931, this elegant hotel is 3 km from the New Delhi train station,
+        3 km from the India Gate monument and 5 km from the 17th-century landmark Red Fort. </string>
+    <string name="the_imperial_address">Janpath Ln, Janpath, Connaught Place, New Delhi, Delhi 110001</string>
+    <string name="the_imperial_time">Always Open</string>
+    <string name="the_imperial_price">Depends</string>
+
+
+    <!--Resturants -->
+    <string name="indian_accent">Indian Accent</string>
+    <string name="indian_accent_description">Indian Accent, rated as the no. 1 restaurant in India, showcases an Inventive Indian menu.</string>
+    <string name="indian_accent_address">The Lodhi, Lodhi Rd, CGO Complex, Pragati Vihar, New Delhi, Delhi 110003</string>
+    <string name="indian_accent_time">Always Open</string>
+    <string name="indian_accent_price">Depends</string>
+
+    <string name="tamra">Tamra</string>
+    <string name="tamra_description">Sizable, upscale hotel restaurant with unique, smart decor offering a global buffet
+        and cocktails.</string>
+    <string name="tamra_address">Ashoka Rd, Connaught Place, New Delhi, Delhi 110001</string>
+    <string name="tamra_time">Always Open</string>
+    <string name="tamra_price">Depends</string>
+
+    <string name="dakshin">Dakshin</string>
+    <string name="dakshin_description">The Dakshin is an award-winning restaurant at The Sheraton New Delhi that promises to take guests on an unparalleled gastronomic journey</string>
+    <string name="dakshin_address">35/16, Mukund Lal Katyal Marg</string>
+    <string name="dakshin_time">Always Open</string>
+    <string name="dakshin_price">Depends</string>
+
+    <string name="k3_restaurant">K3 Restaurant JW Marriott</string>
+    <string name="k3_restaurant_description">International dishes are available from this spacious beamed hotel dining
+        room around the clock.</string>
+    <string name="k3_restaurant_address">J W Marriott Hotel, Aerocity, Indira Gandhi International Airport, New Delhi</string>
+    <string name="k3_restaurant_time">Always Open</string>
+    <string name="k3_restaurant_price">Depends</string>
+
+    <string name="dum_pukht">Dum Pukht</string>
+    <string name="dum_pukht_description">Dum pukht had got beautiful ambience wid cozy environment. Great ambience
+        with cozy interiors.Great fine dining restaurant.Do try their awesomelicious mutton kebabs(mouth watering).
+</string>
+    <string name="dum_pukht_address">TC Maurya, Sardar Patel Marg, Akhaura Block, Diplomatic Enclave, Chanakyapuri,
+        New Delhi, Delhi 110021</string>
+    <string name="dum_pukht_time">Always Open</string>
+    <string name="dum_pukht_price">Depends</string>
+
+    <string name="bukhara">Bukhara</string>
+    <string name="bukhara_description">ITC Maurya, Sardar Patel Marg, Akhaura Block, Diplomatic Enclave,
+        Chanakyapuri, New Delhi, Delhi 110021</string>
+    <string name="bukhara_address">Chankayapuri</string>
+    <string name="bukhara_time">Always Open</string>
+    <string name="bukhara_price">Depends</string>
+
+    <string name="oriental_octopus">Oriental Octopus</string>
+    <string name="oriental_octopus_description">Lavishly appointed art deco dining room serving a range of dishes from
+        across Asia cuisines.</string>
+    <string name="oriental_octopus_address">India Habitat Centre,Lodhi Road,Delhi</string>
+    <string name="oriental_octopus_time">Always Open</string>
+    <string name="oriental_octopus_price">Depends</string>
+
+
+    <!-- Shopping-->
+    <string name="connaught_place">Connaught Place</string>
+    <string name="connaught_place_description">Connaught Place is a frenetic business and financial hub, centered on a
+        ring of colonnaded Georgian-style buildings with global chain stores, vintage cinemas, bars and Indian
+        restaurants.</string>
+    <string name="connaught_place_address">Delhi</string>
+    <string name="connaught_place_time">10:00-22:00</string>
+    <string name="connaught_place_price">Depends</string>
+
+    <string name="chandni_chowk">Chandni Chowk</string>
+    <string name="chandni_chowk_description">n the heart of Old Delhi, Chandni Chowk is a busy shopping area with markets
+        full of spices, dried fruit, silver jewelry and vivid saris, while the narrow side streets are crowded with
+        tiny shops selling essential oils, stationery and traditional Indian sweets.</string>
+    <string name="chandni_chowk_address">Chandni Chowk, Delhi</string>
+    <string name="chandni_chowk_time">10:00-22:00</string>
+    <string name="chandni_chowk_price">Depends</string>
+
+    <string name="dilli_haat">Dilli Haat</string>
+    <string name="dilli_haat_description">Dilli Haat is a paid-entrance open-air food plaza and craft bazaar located in
+        Delhi, run by Delhi Tourism and Transportation Development Corporation.</string>
+    <string name="dilli_haat_address">JanakPuri</string>
+    <string name="dilli_haat_time">10:00-22:00</string>
+    <string name="dilli_haat_price">Depends</string>
+
+    <string name="palika_bazaar">Palika Bazaar</string>
+    <string name="palika_bazaar_description">Palika Bazaar, is an underground market located between the inner and
+        outer circle of Connaught Place, Delhi, India. It is named after Palika Bazaar of Mumbai.
+    </string>
+    <string name="palika_bazaar_address">Paalika bazar,Delhi</string>
+    <string name="palika_bazaar_time">10:00-22:00</string>
+    <string name="palika_bazaar_price">Depends</string>
+
+    <string name="karol_bagh">Karol Bagh</string>
+    <string name="karol_bagh_description">Karol Bagh, also spelled as Qarol Bagh, ), is a mixed residential-cum-commercial
+        neighbourhood in Delhi, India, known for its shopping streets, like the Ghaffar Market and Ajmal Khan Road.</string>
+    <string name="karol_bagh_address">Karol Bagh</string>
+    <string name="karol_bagh_time">10:00-22:00</string>
+    <string name="karol_bagh_price">Depends</string>
+
+    <string name="lajpat_nagar">Lajpat Nagar</string>
+    <string name="lajpat_nagar_description">Lajpat Nagar is centered on the sprawling Central Market, a colorful maze of
+        narrow lanes with stalls and shops selling vivid saris, embroidered fabrics, kitchenware and herbal cosmetics.</string>
+    <string name="lajpat_nagar_address">Lajpat Nagar</string>
+    <string name="lajpat_nagar_time">10:00-22:00</string>
+    <string name="lajpat_nagar_price">Depends</string>
+
+    <string name="sarojini_nagar_name">Sarojini Nagar</string>
+    <string name="sarojini_nagar_description">Sarojini Nagar is a neighbourhood in South West Delhi district of Delhi, India.
+        It was one of the sites of the 29 October 2005 Delhi bombings.</string>
+    <string name="sarojini_nagar_address">Sarojini Nagar,Delhi</string>
+    <string name="sarojini_nagar_time">10:00-22:00</string>
+    <string name="sarojini_nagar_price">Depends</string>
+</resources>
